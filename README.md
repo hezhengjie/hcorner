@@ -23,12 +23,12 @@ hcorner是一个很简单的插件，其实也没有多少功能，为一块div�
 
 ##二、效果
 ####normal
-![image](https://github.com/hzj727792893@gmail.com/hcorner/raw/master/img/normal.jpg)  
+![image](https://github.com/hezhengjie/hcorner/raw/master/img/normal.png)  
 
 
 
 ####in-fillet  
-![image](https://github.com/hzj727792893@gmail.com/hcorner/raw/master/img/in-fillet.jpg)  
+![image](https://github.com/hezhengjie/hcorner/raw/master/img/in-fillet.png)  
 
 ####out-fillet  
-![image](https://github.com/hzj727792893@gmail.com/hcorner/raw/master/img/out-fillet.jpg)
+![image](https://github.com/hezhengjie/hcorner/raw/master/img/out-fillet.png)
